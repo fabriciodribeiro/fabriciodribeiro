@@ -14,7 +14,13 @@ I've been working with technology since 2005, and during this time I worked with
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the .NET and Patterns diving into data world
 * 🏞️ Cycling is one of my favorite hobbies, as you can see some of my rides on Strava.
 
-<br>
+### 🤳 &nbsp;Git Stats
+
+<div align="center">
+  <a href="https://github.com/fabriciodribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciodribeiro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodribeiro&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,14 +34,6 @@ I've been working with technology since 2005, and during this time I worked with
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Devops](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&logoColor=white)&nbsp;
 
-### 🤳 &nbsp;Git Stats
-
-<div align="center">
-  <a href="https://github.com/fabriciodribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciodribeiro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodribeiro&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/fabriciodribeiropt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/fabriciodribeiropt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
