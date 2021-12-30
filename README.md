@@ -28,41 +28,14 @@ I've been working with technology since 2005, and during this time I worked with
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Devops](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&logoColor=white)&nbsp;
 
-- ☁️ Cloud
-      
-    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />
+### 🤳 &nbsp;Git Stats
 
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/fabriciodribeiropt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-      
 <div align="center">
   <a href="https://github.com/fabriciodribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciodribeiro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodribeiro&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://pa1.narvii.com/6730/6aa5f0160df9de48ef128e15c602521d0132f936_hq.gif">
-</div>
 
-<!--
-**fabriciodribeiro/fabriciodribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 &nbsp; How to reach me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/fabriciodribeiropt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
